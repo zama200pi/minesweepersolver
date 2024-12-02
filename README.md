@@ -1,0 +1,1 @@
+a minsweeper solver gui, click on the block and type the number that is displayed in actual game for blankm type 0 and press enter safe positions will be displayed by blu and mines by red after that continue clicking the safe places in actual game and feed the data here and again press enter and so on 
